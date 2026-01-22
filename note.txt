@@ -3,3 +3,8 @@ Git is a version control system.
 Real-world example:
 A team uses GitHub to collaborate. Developers work on separate branches,
 push changes to GitHub, and use pull requests for code review before merging.
+
+A team uses GitHub to collaborate. Each member works on a separate branch,
+pushes code to GitHub, and creates pull requests before merging into main.
+
+hcgduvjjdhbv
